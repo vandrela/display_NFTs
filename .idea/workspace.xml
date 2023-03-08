@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89895be6-bd36-4d09-9c9e-706453dbee13" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/display-nfts/src/components/NFT.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/display-nfts/src/components/NFT.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/display-nfts/src/data/data.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/display-nfts/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/display-nfts/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/display-nfts/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/display-nfts/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/display-nfts/src/components/NFT.css" beforeDir="false" afterPath="$PROJECT_DIR$/display-nfts/src/components/NFT.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/display-nfts/src/components/NFT.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/display-nfts/src/components/NFT.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/display-nfts/src/data/data.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/display-nfts/src/data/data.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
