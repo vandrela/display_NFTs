@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89895be6-bd36-4d09-9c9e-706453dbee13" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/display-nfts/src/components/NFT.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/display-nfts/src/components/NFT.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/display-nfts/src/data/data.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/display-nfts/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/display-nfts/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/display-nfts/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/display-nfts/src/App.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +28,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/display-nfts/node_modules/typescript/lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/display-nfts/src" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -33,11 +44,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678297113522</updated>
-      <workItem from="1678297115407" duration="1750000" />
+      <workItem from="1678297115407" duration="5602000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
